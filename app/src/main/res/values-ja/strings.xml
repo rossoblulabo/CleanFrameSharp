@@ -1,0 +1,228 @@
+<resources>
+    <string name="app_name">CleanFrame Sharp</string>
+    <string name="home_redirect_label">CleanFrame Home button</string>
+    <string name="home_redirect_description">"ホームボタンの割り当てを変更する任意の機能です。Androidからキー操作を受け取りますが、ホーム以外のキーは記録せず、そのまま通します。画面内容や入力履歴の取得、ネットワークへのアクセスは行いません。短押し・長押しのどちらでもCleanFrameを開きます。オフにすると元のホームボタンの動作に戻ります。Googleランチャーは無効になりません。"</string>
+    <string name="ui_5f1f32c843f5" formatted="false">"壁紙の一覧を読み込めませんでした"</string>
+    <string name="ui_dbcd5e7bb7a0" formatted="false">"細字"</string>
+    <string name="ui_88d759ea02ce" formatted="false">"オリジナル"</string>
+    <string name="ui_d442655c0643" formatted="false">"やや太字"</string>
+    <string name="ui_aee8ab19ad4b" formatted="false">"このアプリを開けませんでした"</string>
+    <string name="ui_ca69e69a9491" formatted="false">"「すべてのアプリ」からホームに追加できます"</string>
+    <string name="ui_9cb965e5630e" formatted="false">"すべてのアプリ"</string>
+    <string name="ui_74a883a037bc" formatted="false">"設定"</string>
+    <string name="ui_329fe0bfab5a" formatted="false">"戻る · "</string>
+    <string name="ui_880688e3620b" formatted="false">"ホームのプレビュー"</string>
+    <string name="ui_e1b9463847ca" formatted="false">"前のメニュー"</string>
+    <string name="ui_3a78695388b3" formatted="false">"ホーム"</string>
+    <string name="ui_854a75353a8b" formatted="false">"前の画面"</string>
+    <string name="ui_bd44f3ef31ee" formatted="false">"、選択中"</string>
+    <string name="ui_c0a7f647c17d" formatted="false">"バージョンを取得できませんでした"</string>
+    <string name="ui_f9ddd22c6b6b" formatted="false">"CleanFrame Sharpについて"</string>
+    <string name="ui_76900f1bfd16" formatted="false">"戻る"</string>
+    <string name="ui_dd167905de0d" formatted="false">"バージョン"</string>
+    <string name="ui_d90ac10ec12e" formatted="false">"テレビのためのホーム画面"</string>
+    <string name="ui_45365781c3a6" formatted="false">"Nathan Clark氏のCleanFrameを参考に制作した、オフラインで使えるAndroid TVランチャーです。リストとドックの表示形式で、お好みのアプリや写真を楽しめます。"</string>
+    <string name="ui_54a57c3147c4" formatted="false">"プライバシー"</string>
+    <string name="ui_c972ea6b5b12" formatted="false">"広告や利用状況の解析はなく、ネットワーク権限も使用しません。設定はテレビ内に保存されます。ホームボタンの割り当ては任意です。"</string>
+    <string name="ui_fcb5f6d83cb4" formatted="false">"自分好みのホーム画面に。"</string>
+    <string name="ui_a69553c0352c" formatted="false">"表示"</string>
+    <string name="ui_a511909161e1" formatted="false">"レイアウト"</string>
+    <string name="ui_ea2b8a878841" formatted="false">"背景"</string>
+    <string name="ui_cab94aba84f9" formatted="false">"文字の表示"</string>
+    <string name="ui_e12a5ef49426" formatted="false">"選択表示と明るさ"</string>
+    <string name="ui_36e65c39f83b" formatted="false">"ホーム"</string>
+    <string name="ui_fb2c8e8bf05b" formatted="false">"ホームに表示するアプリ"</string>
+    <string name="ui_97a2e8815acd" formatted="false">"個を選択中"</string>
+    <string name="ui_bd146c4aeb24" formatted="false">"ホームボタン"</string>
+    <string name="ui_d22d7f49f41a" formatted="false">"Googleランチャーを開く"</string>
+    <string name="ui_d621c1a7169f" formatted="false">"システム"</string>
+    <string name="ui_088e13fed43c" formatted="false">"プライバシーとシステム"</string>
+    <string name="ui_4efca0d10c5f" formatted="false">"このアプリについて"</string>
+    <string name="ui_6f202f54a7b2" formatted="false">"リスト"</string>
+    <string name="ui_49c1e208c54a" formatted="false">"ドック"</string>
+    <string name="ui_e828d3dc7efb" formatted="false">"写真や落ち着いたグラデーションを選べます。"</string>
+    <string name="ui_006547c4fdf5" formatted="false">"壁紙"</string>
+    <string name="ui_ab64614fdfe4" formatted="false">"グラデーション"</string>
+    <string name="ui_4e9f8db8242b" formatted="false">"夜"</string>
+    <string name="ui_abd7160c1f46" formatted="false">"夕暮れ"</string>
+    <string name="ui_10ad4c387363" formatted="false">"スレート"</string>
+    <string name="ui_a5a889d0e056" formatted="false">"自分の写真を使う"</string>
+    <string name="ui_b86af1ff21a9" formatted="false">"写真を選択できるアプリが見つかりませんでした"</string>
+    <string name="ui_4ab6f6f1709f" formatted="false">"背景の暗さ"</string>
+    <string name="ui_e2ca681e7045" formatted="false">"写真のクレジットとライセンス"</string>
+    <string name="ui_6e45bdf03e96" formatted="false">"ホーム画面の文字をお好みに調整できます。"</string>
+    <string name="ui_3a8c10765dd5" formatted="false">"フォント"</string>
+    <string name="ui_fe3edf9e0a12" formatted="false">"文字の太さ"</string>
+    <string name="ui_788433eb9974" formatted="false">"アプリ名の文字サイズ"</string>
+    <string name="ui_5263293fc202" formatted="false">"小"</string>
+    <string name="ui_ef6691545d2c" formatted="false">"標準"</string>
+    <string name="ui_8e588cd18774" formatted="false">"中"</string>
+    <string name="ui_ab80540d98d2" formatted="false">"大"</string>
+    <string name="ui_435d68cccf27" formatted="false">"選択位置を見やすく、背景を心地よい明るさに。"</string>
+    <string name="ui_9cb66f7dfb06" formatted="false">"選択枠の濃さ"</string>
+    <string name="ui_b785bbf92c55" formatted="false">"控えめ · 12%"</string>
+    <string name="ui_e5ca7ec4ef28" formatted="false">"薄め · 20%"</string>
+    <string name="ui_184c0c1f37ab" formatted="false">"標準 · 30%"</string>
+    <string name="ui_fa8a2563fce5" formatted="false">"濃いめ · 45%"</string>
+    <string name="ui_255b5568522b" formatted="false">"背景の暗さ"</string>
+    <string name="ui_a9a34575849c" formatted="false">"暗くしない · 0%"</string>
+    <string name="ui_aefa700dbc28" formatted="false">"わずかに暗く · 10%"</string>
+    <string name="ui_b9f8498071d2" formatted="false">"標準 · 18%"</string>
+    <string name="ui_a2b8ef38e40f" formatted="false">"暗め · 30%"</string>
+    <string name="ui_a9bfc2911dcc" formatted="false">"かなり暗く · 45%"</string>
+    <string name="ui_d867cdabd782" formatted="false">"非常に暗く · 60%"</string>
+    <string name="ui_18100b710f74" formatted="false">"上下で移動し、決定ボタンで設定します。"</string>
+    <string name="ui_127fdef86fa1" formatted="false">"設定を保存できませんでした"</string>
+    <string name="ui_11bd2e9a7a3c" formatted="false">"上下でプレビューを切り替え、決定ボタンで設定します。"</string>
+    <string name="ui_3ba6b1a19d2b" formatted="false">"写真を読み込めませんでした"</string>
+    <string name="ui_959274b5ed11" formatted="false">"写真の設定を保存できませんでした"</string>
+    <string name="ui_388f190a3f3b" formatted="false">"、撮影："</string>
+    <string name="ui_993d0efcac13" formatted="false">"霧の海岸"</string>
+    <string name="ui_70f597b73eb3" formatted="false">"自分の写真"</string>
+    <string name="ui_bf5619b31146" formatted="false">"アプリを選ぶと、起動やホームへの追加ができます。"</string>
+    <string name="ui_b76bb80d3cb9" formatted="false">"起動できるアプリが見つかりませんでした。"</string>
+    <string name="ui_85c1a3cbac2c" formatted="false">"ホームに追加済み"</string>
+    <string name="ui_9895ce39c8aa" formatted="false">"、ホームに追加済み"</string>
+    <string name="ui_5b2b25098030" formatted="false">"アプリを選ぶと、並べ替えやホームからの削除ができます。"</string>
+    <string name="ui_4379fec89ea3" formatted="false">"アプリを追加"</string>
+    <string name="ui_f8fd076b2e64" formatted="false">"アプリの操作"</string>
+    <string name="ui_e51c6b48fb9e" formatted="false">"アプリを開く"</string>
+    <string name="ui_914c040197b5" formatted="false">"ホームから削除"</string>
+    <string name="ui_ac14c8f07b88" formatted="false">"ホームに追加"</string>
+    <string name="ui_c66feb5eb8f2" formatted="false">"上へ移動"</string>
+    <string name="ui_40bb50da160c" formatted="false">"下へ移動"</string>
+    <string name="ui_e8d93bc8a02c" formatted="false">"テレビの設定はご自身で管理できます。"</string>
+    <string name="ui_24817fab93e3" formatted="false">"システムパッケージの状態"</string>
+    <string name="ui_1ea31d26364c" formatted="false">"状態の表示のみ · 手動で更新"</string>
+    <string name="ui_a01e5ee47ff8" formatted="false">"テレビの設定"</string>
+    <string name="ui_7f1b4bd446e7" formatted="false">"テレビ本体の設定画面を開きます"</string>
+    <string name="ui_447408cf2c49" formatted="false">"テレビの設定画面を開けませんでした"</string>
+    <string name="ui_b69ac0aa7f24" formatted="false">"CleanFrameが既定のホームを変更したり、パッケージを有効・無効にしたり、ADBを実行したりすることはありません。"</string>
+    <string name="ui_0a88ec5cc425" formatted="false">"Googleのホーム画面を開けませんでした。ホームボタンの設定を確認してください。"</string>
+    <string name="ui_6d1ed737e561" formatted="false">"ユーザー補助を有効にする"</string>
+    <string name="ui_565339bc4d33" formatted="false">"OK"</string>
+    <string name="ui_19766ed6ccb2" formatted="false">"キャンセル"</string>
+    <string name="ui_96b1e6e8d175" formatted="false">"ホームボタンでCleanFrameを開きます。"</string>
+    <string name="ui_4889951f6134" formatted="false">"状態："</string>
+    <string name="ui_37fe460c8fc5" formatted="false">"ホームボタンの割り当てをオフにする"</string>
+    <string name="ui_e3ed5eb6925f" formatted="false">"ホームボタンの割り当てをオンにする"</string>
+    <string name="ui_be1515ce3b13" formatted="false">"ホームボタンで元のGoogleランチャーが開くようになります。"</string>
+    <string name="ui_e647addaa8c3" formatted="false">"先にテレビのユーザー補助で「CleanFrame Home button」を有効にしてください。"</string>
+    <string name="ui_f9ea4a5982f7" formatted="false">"ホームボタンの設定を保存できませんでした"</string>
+    <string name="ui_6e1d3b76b019" formatted="false">"ユーザー補助の設定方法"</string>
+    <string name="ui_93014643a030" formatted="false">"テレビでの設定手順を表示します。"</string>
+    <string name="ui_442c4b893915" formatted="false">"状態を更新"</string>
+    <string name="ui_b37d08e0fdff" formatted="false">"仕組みとプライバシー"</string>
+    <string name="ui_6f0b9ac5af2a" formatted="false">"この機能の動作と停止方法を確認できます。"</string>
+    <string name="ui_edbb87625e54" formatted="false">"ホームボタンとプライバシー"</string>
+    <string name="ui_eee6188f7e9d" formatted="false">"ホームボタンの割り当て"</string>
+    <string name="ui_ec5ba0abb717" formatted="false">"アクセスする情報"</string>
+    <string name="ui_7013af4c42fe" formatted="false">"設定手順"</string>
+    <string name="ui_921e9801a939" formatted="false">"ホームボタンの動作"</string>
+    <string name="ui_74039ed531a5" formatted="false">"機能をオフにする"</string>
+    <string name="ui_1220c7e2aa14" formatted="false">"不明 · 未インストール、または取得できません"</string>
+    <string name="ui_45b4aa18b9c7" formatted="false">"不明 · 状態を取得できません"</string>
+    <string name="ui_21eed2ff0940" formatted="false">"システムパッケージ"</string>
+    <string name="ui_1d333356a067" formatted="false">"状態を表示するだけで、パッケージは変更しません。"</string>
+    <string name="ui_0e9161011702" formatted="false">"更新"</string>
+    <string name="ui_03a32708a02f" formatted="false">"パッケージの状態を再取得します"</string>
+    <string name="ui_797afe7f5a7f" formatted="false">"個別の検討が必要"</string>
+    <string name="ui_c9d2cf1de089" formatted="false">"変更しない"</string>
+    <string name="ui_c611981fab98" formatted="false">"取り扱い"</string>
+    <string name="ui_6fccb5bf92a3" formatted="false">"。「変更しない」と表示されたパッケージは、そのままにしてください。"</string>
+    <string name="ui_862493acb761" formatted="false">"1 · 接続"</string>
+    <string name="ui_7067da07fcb4" formatted="false">"テレビに接続"</string>
+    <string name="ui_647822401535" formatted="false">"2 · 接続状態を確認"</string>
+    <string name="ui_5f17d9b93e10" formatted="false">"3 · 無効なパッケージを確認"</string>
+    <string name="ui_0131f9abdb10" formatted="false">"任意の手動操作です。事前に機種への影響を確認してください"</string>
+    <string name="ui_3b4fb7bf4dcc" formatted="false">"このパッケージを有効に戻す"</string>
+    <string name="ui_982c3f985278" formatted="false">"状態を確認して動作をテスト"</string>
+    <string name="ui_c73a2320935c" formatted="false">"変更しないでください"</string>
+    <string name="ui_804848b31bff" formatted="false">"有効・無効を変更するコマンドは表示しません。このパッケージは現在の状態を維持してください。"</string>
+    <string name="ui_0607c8e1f709" formatted="false">"写真とフォント"</string>
+    <string name="ui_d627ee9a7713" formatted="false">"デザインの参考元"</string>
+    <string name="ui_45f6e3c850c0" formatted="false">"撮影："</string>
+    <string name="ui_1b809dce5c6d" formatted="false">"写真のライセンス"</string>
+    <string name="ui_a6abd3ffc7ce" formatted="false">"フォント"</string>
+    <string name="ui_9f64e78ad2d7" formatted="false">"ホームの設定を保存できませんでした"</string>
+    <string name="ui_4d989f0eb173" formatted="false">"写真を読み込めないか、設定を保存できませんでした。別の画像を選んでください。"</string>
+    <string name="ui_666384ac0ae3" formatted="false">"言語 / Language"</string>
+    <string name="ui_e13196344ea6" formatted="false">"元のランチャーを開きますか？"</string>
+    <string name="ui_3a9215d88328" formatted="false">"ホームボタンの割り当てがオフになります。CleanFrameをホームボタンで開くには、再度オンにしてください。"</string>
+    <string name="ui_bae59ff036d3" formatted="false">"変更しない：元のランチャーと復帰手段"</string>
+    <string name="ui_75beddcdc14b" formatted="false">"シャープの利用状況解析"</string>
+    <string name="ui_826e02881a10" formatted="false">"無効化は任意です。シャープの解析機能や他の機能への影響は不明です"</string>
+    <string name="ui_5654ea7d49ea" formatted="false">"無効化すると、おすすめ表示やシャープの連携機能に影響する可能性があります"</string>
+    <string name="ui_4274bef065cf" formatted="false">"Android TV Core Services"</string>
+    <string name="ui_4d6f36f44760" formatted="false">"無効化は任意です。通知、元のホーム画面、連携機能に影響する可能性があります"</string>
+    <string name="ui_e25142f82ab8" formatted="false">"Googleフィードバック"</string>
+    <string name="ui_7ba06d91b9ee" formatted="false">"無効化すると、フィードバックの送信に影響する可能性があります"</string>
+    <string name="ui_124cc425ccd5" formatted="false">"テレビの不具合レポート送信"</string>
+    <string name="ui_ceba61654596" formatted="false">"無効化すると、診断情報の送信に影響する可能性があります"</string>
+    <string name="ui_ca5d50695518" formatted="false">"Googleアシスタント"</string>
+    <string name="ui_61ac7dc2bb4b" formatted="false">"変更しない：音声ボタンとアシスタント"</string>
+    <string name="ui_38118735f18f" formatted="false">"Google Play開発者サービス"</string>
+    <string name="ui_125dac33bb87" formatted="false">"変更しない：アプリの認証と各種サービス"</string>
+    <string name="ui_50eee1301880" formatted="false">"Google Playストア"</string>
+    <string name="ui_7536eb04bd83" formatted="false">"変更しない：アプリのインストールと更新"</string>
+    <string name="ui_e38cffb01fa6" formatted="false">"シャープの録画機能"</string>
+    <string name="ui_039d7044f59a" formatted="false">"変更しない：録画と録画予約"</string>
+    <string name="ui_468a284bdfff" formatted="false">"シャープの番組表連携"</string>
+    <string name="ui_419eb86f5e14" formatted="false">"変更しない：番組表"</string>
+    <string name="ui_5b7a35b62ccc" formatted="false">"シャープのハイブリッドキャスト"</string>
+    <string name="ui_4e6a9487b2e3" formatted="false">"変更しない：日本の放送関連機能"</string>
+    <string name="ui_877d9d2a86b4" formatted="false">"シャープのシステム管理"</string>
+    <string name="ui_911b6e9b3c15" formatted="false">"変更しない：テレビのシステム機能"</string>
+    <string name="ui_ab341fbaf554" formatted="false">"シャープのテレビランチャー"</string>
+    <string name="ui_ca7981b46ecf" formatted="false">"オフ"</string>
+    <string name="ui_d7ee522b5607" formatted="false">"ユーザー補助の有効化が必要です"</string>
+    <string name="ui_50d91f00f978" formatted="false">"準備完了 · ホームボタンで確認してください"</string>
+    <string name="ui_0146ce6f6296" formatted="false">"Androidの接続を待っています"</string>
+    <string name="ui_089d7bd18a88" formatted="false">"サービスの開始後、ホームボタンはまだ押されていません"</string>
+    <string name="ui_95a48f2c100f" formatted="false">"サービスが接続されていません"</string>
+    <string name="ui_8c169effb2ba" formatted="false">"ホームボタンを受け付け、起動を要求しました"</string>
+    <string name="ui_1d3299675857" formatted="false">"ホームの起動に失敗したため、割り当てをオフにしました"</string>
+    <string name="ui_6cf0a9dbe03c" formatted="false">"ホームボタンを受け付け、ボタンを離すのを待っています"</string>
+    <string name="ui_b10f98627e41" formatted="false">"Androidがホームの起動を許可しませんでした。割り当てをオフにしました。次にホームボタンを押すと、元の動作に戻ります。"</string>
+    <string name="ui_a3f855a0ffe3" formatted="false">"有効（標準設定）"</string>
+    <string name="ui_2ce7e223e1fe" formatted="false">"無効（アプリの標準設定）"</string>
+    <string name="ui_4e90158ba181" formatted="false">"有効"</string>
+    <string name="ui_0c7ef33e451e" formatted="false">"無効"</string>
+    <string name="ui_9d8f9968b641" formatted="false">"ユーザーにより無効"</string>
+    <string name="ui_4b04c38c27a0" formatted="false">"使用するまで無効"</string>
+    <string name="ui_4c7f25572d15" formatted="false">"不明（未対応のAndroid状態）"</string>
+    <string name="ui_1dfe5a8105c6" formatted="false">"静かな入り江"</string>
+    <string name="ui_57a5e0087210" formatted="false">"霧の森"</string>
+    <string name="ui_dfb68eeb38be" formatted="false">"山あいの谷"</string>
+    <string name="ui_e2f530f726fd" formatted="false">"砂漠の星空"</string>
+    <string name="ui_57a7abffe45a" formatted="false">"青い山並み"</string>
+    <string name="ui_ca9b9ab5c922" formatted="false">"夕暮れの橋"</string>
+    <string name="ui_b27e0ee17403" formatted="false">"陽光の稜線"</string>
+    <string name="ui_d826d27be54d" formatted="false">"黄金のひととき"</string>
+    <string name="ui_b140648fc54e" formatted="false">"陽光の頂"</string>
+    <string name="ui_d47a42a5151a" formatted="false">"ゴールドコーストの夕暮れ"</string>
+    <string name="ui_bb03f5186fec" formatted="false">"シドニー湾"</string>
+    <string name="ui_00ef2d953309" formatted="false">"琥珀色の丘"</string>
+    <string name="ui_188b10c23545" formatted="false">"ミントの波"</string>
+    <string name="ui_b3e01632add3" formatted="false">"山々の輝き"</string>
+    <string name="ui_326fa54aae51" formatted="false">"ホームボタンの割り当て\n\n先にテレビのユーザー補助で「CleanFrame Home button」を有効にし、その後ここで割り当てをオンにしてください。\n\nボタンを離すとCleanFrameを一度だけ開きます。長押しも同じ動作です。Googleランチャーは無効になりません。「Googleランチャーを開く」を選ぶと割り当てがオフになります。"</string>
+    <string name="ui_717af1205610" formatted="false">"パッケージの状態を表示します。\n\nこのアプリからコマンドは実行しません。「更新」でAndroidから状態を再取得できます。\n\n「変更しない」と表示されたパッケージは、そのままにしてください。"</string>
+    <string name="ui_37e5df95d51f" formatted="false">"使いたいアプリを、好きな順番で。\n\nアプリを開いたり、ホームに追加したりできます。このメニューでアプリ自体がインストール・削除されることはありません。"</string>
+    <string name="ui_f40fc6a77c53" formatted="false">"お気に入りの写真とアプリを、すっきりと。\n\n設定はすべてテレビ内に保存されます。広告、利用状況の解析、ネットワークへのアクセスはありません。"</string>
+    <string name="ui_9d31b32cf353" formatted="false">"テレビ本体のメニューで、次の順に開いてください。\n\n設定 → その他の設定 → ユーザー補助\n\n画面の一番下にある「サービス」で「CleanFrame Home button」をオンにします。\n\nその後、CleanFrameの「設定 → ホームボタン」で「ホームボタンの割り当てをオンにする」を選んでください。\n\n他の機種ではメニューの名称や場所が異なる場合があります。"</string>
+    <string name="ui_21e9df992513" formatted="false">"元のGoogleランチャーを開き、ホームボタンの割り当てをオフにします。以後、ホームボタンを押すとGoogleのホーム画面が開きます。\n\n再びホームボタンでCleanFrame Sharpを開くには、CleanFrameの「設定 → ホームボタン」で割り当てをオンにしてください。"</string>
+    <string name="ui_8c04b97198e4" formatted="false">"Androidの通常の処理より先にホームボタンの押下・解放を受け取り、CleanFrameを一度だけ開きます。画面の監視、遅延後の再試行、Googleランチャーの無効化は行いません。動作はテレビのファームウェアによって異なるため、実機で確認してください。"</string>
+    <string name="ui_dd17eb9d706e" formatted="false">"Androidからキー操作を受け取りますが、処理するのはホームボタン（キーコード3）だけです。それ以外のキーは記録せず、そのまま通します。画面内容、入力文字、ウィンドウのイベント、ジェスチャー、タッチガイドへのアクセスは要求しません。"</string>
+    <string name="ui_5736e7b7dbda" formatted="false">"先にテレビのユーザー補助で「CleanFrame Home button」を有効にし、その後ここでホームボタンの割り当てをオンにしてください。更新後は、サービスが引き続き有効か確認してください。"</string>
+    <string name="ui_907d447171f9" formatted="false">"短く押しても長押ししても、CleanFrameを一度だけ開きます。有効な間は、元の長押し操作もこの動作に置き換わります。音声、戻る、音量、選局などのキーはそのまま通します。画面が消えている場合やロック中は、システム本来の処理に任せます。"</string>
+    <string name="ui_4493721b67f9" formatted="false">"このボタンでGoogleのホーム画面を開くと、ホームボタンの割り当てがオフになります。ここで再びオンにするまで、オフのままになります。"</string>
+    <string name="ui_509146c051ee" formatted="false">"ここでホームボタンの割り当てをオフにするか、テレビのユーザー補助で「CleanFrame Home button」をオフにしてください。元のランチャーは有効なままです。このアプリが他のユーザー補助サービスを変更することはありません。"</string>
+    <string name="ui_61fa848397a2" formatted="false">"ネットワーク権限、画面内容の取得、キー操作の履歴は使用しません。有効・無効の設定と、失敗時のメッセージだけをテレビ内に保存します。表示される状態は起動要求の有無を示すもので、実際に最前面に表示されたことを保証するものではありません。"</string>
+    <string name="ui_bff680be0199" formatted="false">"テレビの開発者向け設定でデバッグを有効にし、PCとテレビを同じネットワークに接続してください。adb.exeがあるフォルダーでPowerShellを開きます。下の接続例のアドレスとポートは、ご自身のテレビの値に置き換えてください。"</string>
+    <string name="ui_9e1c8a552ab0" formatted="false">".\\adb.exe devices\nテレビの行に「device」と表示されていることを確認してください。「offline」や「unauthorized」の場合は先に接続を確認します。"</string>
+    <string name="ui_d0003010be4c" formatted="false">".\\adb.exe shell pm list packages -d\n放送、番組表、録画、HDMI、リモコン、動画配信アプリの動作を確認してください。問題があれば有効に戻し、必要に応じてテレビを再起動します。復旧のためにシステムアプリを削除したり、データを消去したりしないでください。"</string>
+    <string name="ui_b37b8c49de98" formatted="false">"Android向けの非公式アプリです（MITライセンス）。本アプリと元のCleanFrameの著作権表示は、それぞれassets/licensesに収録しています。"</string>
+    <string name="ui_86084a6de45a" formatted="false">"Nathan Clark氏 · MITライセンス\nhttps://github.com/nthnclrk/CleanFrame"</string>
+    <string name="ui_854d2e5d8994" formatted="false">"Unsplashライセンス · https://unsplash.com/license\nホーム画面の背景として収録しています。写真の権利は各撮影者に帰属します。提携や公認を示すものではありません。"</string>
+    <string name="ui_5e786c523a55" formatted="false">"Manrope・Geist・Newsreader（SIL Open Font License 1.1）。ライセンス全文と出典は、アプリおよびソースコードに収録しています。"</string>
+</resources>

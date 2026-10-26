@@ -1,0 +1,228 @@
+<resources>
+    <string name="app_name">CleanFrame Sharp</string>
+    <string name="home_redirect_label">CleanFrame Home button</string>
+    <string name="home_redirect_description">"Optional Home-button interception. Android delivers key events to this service before normal system handling. Only Home is consumed; other keys pass through immediately without recording. No screen contents, window events, typing history or network access. Both short and held Home presses open CleanFrame. Turn this service off to restore normal Home behavior. The Google launcher stays enabled."</string>
+    <string name="ui_5f1f32c843f5" formatted="false">"Wallpaper catalogue unavailable"</string>
+    <string name="ui_dbcd5e7bb7a0" formatted="false">"Light"</string>
+    <string name="ui_88d759ea02ce" formatted="false">"Original"</string>
+    <string name="ui_d442655c0643" formatted="false">"Semibold"</string>
+    <string name="ui_aee8ab19ad4b" formatted="false">"This app could not be opened"</string>
+    <string name="ui_ca69e69a9491" formatted="false">"Add your apps from All Apps"</string>
+    <string name="ui_9cb965e5630e" formatted="false">"All Apps"</string>
+    <string name="ui_74a883a037bc" formatted="false">"Settings"</string>
+    <string name="ui_329fe0bfab5a" formatted="false">"Back  ·  "</string>
+    <string name="ui_880688e3620b" formatted="false">"Home preview"</string>
+    <string name="ui_e1b9463847ca" formatted="false">"previous menu"</string>
+    <string name="ui_3a78695388b3" formatted="false">"Home"</string>
+    <string name="ui_854a75353a8b" formatted="false">"previous screen"</string>
+    <string name="ui_bd44f3ef31ee" formatted="false">", selected"</string>
+    <string name="ui_c0a7f647c17d" formatted="false">"Version unavailable"</string>
+    <string name="ui_f9ddd22c6b6b" formatted="false">"About CleanFrame Sharp"</string>
+    <string name="ui_76900f1bfd16" formatted="false">"Back"</string>
+    <string name="ui_dd167905de0d" formatted="false">"Version"</string>
+    <string name="ui_d90ac10ec12e" formatted="false">"Made for your TV"</string>
+    <string name="ui_45365781c3a6" formatted="false">"An offline native Android launcher inspired by Nathan Clark’s CleanFrame. List and Dock layouts, your apps and your photographs."</string>
+    <string name="ui_54a57c3147c4" formatted="false">"Privacy"</string>
+    <string name="ui_c972ea6b5b12" formatted="false">"No advertising, analytics or network permission. Preferences remain on this TV. Home interception is optional."</string>
+    <string name="ui_fcb5f6d83cb4" formatted="false">"Make this space your own."</string>
+    <string name="ui_a69553c0352c" formatted="false">"APPEARANCE"</string>
+    <string name="ui_a511909161e1" formatted="false">"Layout"</string>
+    <string name="ui_ea2b8a878841" formatted="false">"Background"</string>
+    <string name="ui_cab94aba84f9" formatted="false">"Typography"</string>
+    <string name="ui_e12a5ef49426" formatted="false">"Focus &amp; contrast"</string>
+    <string name="ui_36e65c39f83b" formatted="false">"HOME"</string>
+    <string name="ui_fb2c8e8bf05b" formatted="false">"Apps on Home"</string>
+    <string name="ui_97a2e8815acd" formatted="false">" selected"</string>
+    <string name="ui_bd146c4aeb24" formatted="false">"Home button"</string>
+    <string name="ui_d22d7f49f41a" formatted="false">"Open Google launcher"</string>
+    <string name="ui_d621c1a7169f" formatted="false">"SYSTEM"</string>
+    <string name="ui_088e13fed43c" formatted="false">"Privacy &amp; system"</string>
+    <string name="ui_4efca0d10c5f" formatted="false">"About"</string>
+    <string name="ui_6f202f54a7b2" formatted="false">"List"</string>
+    <string name="ui_49c1e208c54a" formatted="false">"Dock"</string>
+    <string name="ui_e828d3dc7efb" formatted="false">"Choose a photograph or a quiet gradient."</string>
+    <string name="ui_006547c4fdf5" formatted="false">"Wallpapers"</string>
+    <string name="ui_ab64614fdfe4" formatted="false">"Gradients"</string>
+    <string name="ui_4e9f8db8242b" formatted="false">"Night"</string>
+    <string name="ui_abd7160c1f46" formatted="false">"Dusk"</string>
+    <string name="ui_10ad4c387363" formatted="false">"Slate"</string>
+    <string name="ui_a5a889d0e056" formatted="false">"Your own photo"</string>
+    <string name="ui_b86af1ff21a9" formatted="false">"No TV photo picker is available"</string>
+    <string name="ui_4ab6f6f1709f" formatted="false">"Dimming"</string>
+    <string name="ui_e2ca681e7045" formatted="false">"Photo credits &amp; licenses"</string>
+    <string name="ui_6e45bdf03e96" formatted="false">"Choose the character of your Home screen."</string>
+    <string name="ui_3a8c10765dd5" formatted="false">"Typeface"</string>
+    <string name="ui_fe3edf9e0a12" formatted="false">"Text weight"</string>
+    <string name="ui_788433eb9974" formatted="false">"App text size"</string>
+    <string name="ui_5263293fc202" formatted="false">"Small"</string>
+    <string name="ui_ef6691545d2c" formatted="false">"Standard"</string>
+    <string name="ui_8e588cd18774" formatted="false">"Medium"</string>
+    <string name="ui_ab80540d98d2" formatted="false">"Large"</string>
+    <string name="ui_435d68cccf27" formatted="false">"Subtle focus. Comfortable contrast."</string>
+    <string name="ui_9cb66f7dfb06" formatted="false">"Highlight opacity"</string>
+    <string name="ui_b785bbf92c55" formatted="false">"Subtle · 12%"</string>
+    <string name="ui_e5ca7ec4ef28" formatted="false">"Soft · 20%"</string>
+    <string name="ui_184c0c1f37ab" formatted="false">"Medium · 30%"</string>
+    <string name="ui_fa8a2563fce5" formatted="false">"Strong · 45%"</string>
+    <string name="ui_255b5568522b" formatted="false">"Background dimming"</string>
+    <string name="ui_a9a34575849c" formatted="false">"None · 0%"</string>
+    <string name="ui_aefa700dbc28" formatted="false">"Light · 10%"</string>
+    <string name="ui_b9f8498071d2" formatted="false">"Balanced · 18%"</string>
+    <string name="ui_a2b8ef38e40f" formatted="false">"Dim · 30%"</string>
+    <string name="ui_a9bfc2911dcc" formatted="false">"Dark · 45%"</string>
+    <string name="ui_d867cdabd782" formatted="false">"Very dark · 60%"</string>
+    <string name="ui_18100b710f74" formatted="false">"Browse with Up / Down. Press OK to apply."</string>
+    <string name="ui_127fdef86fa1" formatted="false">"Could not save this choice"</string>
+    <string name="ui_11bd2e9a7a3c" formatted="false">"Browse to preview. Press OK to keep."</string>
+    <string name="ui_3ba6b1a19d2b" formatted="false">"Photo could not be loaded"</string>
+    <string name="ui_959274b5ed11" formatted="false">"Photo could not be saved"</string>
+    <string name="ui_388f190a3f3b" formatted="false">", photo by "</string>
+    <string name="ui_993d0efcac13" formatted="false">"Misty coast"</string>
+    <string name="ui_70f597b73eb3" formatted="false">"Your photo"</string>
+    <string name="ui_bf5619b31146" formatted="false">"Select an app to open it or edit your Home menu."</string>
+    <string name="ui_b76bb80d3cb9" formatted="false">"No launchable apps are visible."</string>
+    <string name="ui_85c1a3cbac2c" formatted="false">"On Home"</string>
+    <string name="ui_9895ce39c8aa" formatted="false">", on Home"</string>
+    <string name="ui_5b2b25098030" formatted="false">"Choose an app to arrange or remove it."</string>
+    <string name="ui_4379fec89ea3" formatted="false">"Add apps"</string>
+    <string name="ui_f8fd076b2e64" formatted="false">"App options"</string>
+    <string name="ui_e51c6b48fb9e" formatted="false">"Open app"</string>
+    <string name="ui_914c040197b5" formatted="false">"Remove from Home"</string>
+    <string name="ui_ac14c8f07b88" formatted="false">"Add to Home"</string>
+    <string name="ui_c66feb5eb8f2" formatted="false">"Move up"</string>
+    <string name="ui_40bb50da160c" formatted="false">"Move down"</string>
+    <string name="ui_e8d93bc8a02c" formatted="false">"Your TV remains in your control."</string>
+    <string name="ui_24817fab93e3" formatted="false">"System package status"</string>
+    <string name="ui_1ea31d26364c" formatted="false">"Read-only · refresh on demand"</string>
+    <string name="ui_a01e5ee47ff8" formatted="false">"Android TV settings"</string>
+    <string name="ui_7f1b4bd446e7" formatted="false">"Open the TV\'s own Settings"</string>
+    <string name="ui_447408cf2c49" formatted="false">"TV Settings unavailable"</string>
+    <string name="ui_b69ac0aa7f24" formatted="false">"CleanFrame never changes your default Home, enables/disables packages or starts ADB."</string>
+    <string name="ui_0a88ec5cc425" formatted="false">"Could not open Google Home. Check Home button settings."</string>
+    <string name="ui_6d1ed737e561" formatted="false">"Enable CleanFrame Home button"</string>
+    <string name="ui_565339bc4d33" formatted="false">"OK"</string>
+    <string name="ui_19766ed6ccb2" formatted="false">"Cancel"</string>
+    <string name="ui_96b1e6e8d175" formatted="false">"Use CleanFrame when you press Home."</string>
+    <string name="ui_4889951f6134" formatted="false">"Status: "</string>
+    <string name="ui_37fe460c8fc5" formatted="false">"Pause Home interception"</string>
+    <string name="ui_e3ed5eb6925f" formatted="false">"Turn on Home interception"</string>
+    <string name="ui_be1515ce3b13" formatted="false">"Home will open the original Google launcher."</string>
+    <string name="ui_e647addaa8c3" formatted="false">"First enable CleanFrame Home button in TV Accessibility settings."</string>
+    <string name="ui_f9ea4a5982f7" formatted="false">"Could not save Home button choice"</string>
+    <string name="ui_6e1d3b76b019" formatted="false">"How to enable Accessibility"</string>
+    <string name="ui_93014643a030" formatted="false">"Show the TV menu steps."</string>
+    <string name="ui_442c4b893915" formatted="false">"Refresh status"</string>
+    <string name="ui_b37d08e0fdff" formatted="false">"How it works &amp; privacy"</string>
+    <string name="ui_6f0b9ac5af2a" formatted="false">"What this access does and how to stop it."</string>
+    <string name="ui_edbb87625e54" formatted="false">"Home button &amp; privacy"</string>
+    <string name="ui_eee6188f7e9d" formatted="false">"Direct Home interception"</string>
+    <string name="ui_ec5ba0abb717" formatted="false">"Access"</string>
+    <string name="ui_7013af4c42fe" formatted="false">"Setup"</string>
+    <string name="ui_921e9801a939" formatted="false">"Home behavior"</string>
+    <string name="ui_74039ed531a5" formatted="false">"Turn it off"</string>
+    <string name="ui_1220c7e2aa14" formatted="false">"UNKNOWN · missing or not visible"</string>
+    <string name="ui_45b4aa18b9c7" formatted="false">"UNKNOWN · status unavailable"</string>
+    <string name="ui_21eed2ff0940" formatted="false">"System packages"</string>
+    <string name="ui_1d333356a067" formatted="false">"Read-only. Nothing here changes a package."</string>
+    <string name="ui_0e9161011702" formatted="false">"Refresh"</string>
+    <string name="ui_03a32708a02f" formatted="false">"Read package states again"</string>
+    <string name="ui_797afe7f5a7f" formatted="false">"Proposed candidate"</string>
+    <string name="ui_c9d2cf1de089" formatted="false">"KEEP / unchanged"</string>
+    <string name="ui_c611981fab98" formatted="false">"Policy"</string>
+    <string name="ui_6fccb5bf92a3" formatted="false">". KEEP packages must remain unchanged."</string>
+    <string name="ui_862493acb761" formatted="false">"1 · Connect"</string>
+    <string name="ui_7067da07fcb4" formatted="false">"Connect to TV"</string>
+    <string name="ui_647822401535" formatted="false">"2 · Verify"</string>
+    <string name="ui_5f17d9b93e10" formatted="false">"3 · Check disabled packages"</string>
+    <string name="ui_0131f9abdb10" formatted="false">"Optional manual change; research your TV first"</string>
+    <string name="ui_3b4fb7bf4dcc" formatted="false">"Restore that candidate"</string>
+    <string name="ui_982c3f985278" formatted="false">"Re-check and test"</string>
+    <string name="ui_c73a2320935c" formatted="false">"KEEP / do not modify"</string>
+    <string name="ui_804848b31bff" formatted="false">"No disable or enable command is offered. Preserve this package\'s current state."</string>
+    <string name="ui_0607c8e1f709" formatted="false">"Photographs &amp; type"</string>
+    <string name="ui_d627ee9a7713" formatted="false">"CleanFrame inspiration"</string>
+    <string name="ui_45f6e3c850c0" formatted="false">"Photo by "</string>
+    <string name="ui_1b809dce5c6d" formatted="false">"Photo license"</string>
+    <string name="ui_a6abd3ffc7ce" formatted="false">"Typefaces"</string>
+    <string name="ui_9f64e78ad2d7" formatted="false">"Home menu could not be saved"</string>
+    <string name="ui_4d989f0eb173" formatted="false">"Photo cannot be read or saved. Choose another image."</string>
+    <string name="ui_666384ac0ae3" formatted="false">"Language / 言語"</string>
+    <string name="ui_e13196344ea6" formatted="false">"Open the original launcher?"</string>
+    <string name="ui_3a9215d88328" formatted="false">"Turns off Home interception. You must turn it on again to use CleanFrame with Home."</string>
+    <string name="ui_bae59ff036d3" formatted="false">"KEEP: original launcher and recovery route"</string>
+    <string name="ui_75beddcdc14b" formatted="false">"Sharp Analytics"</string>
+    <string name="ui_826e02881a10" formatted="false">"Proposed disable; Sharp analytics/provider dependencies uncertain"</string>
+    <string name="ui_5654ea7d49ea" formatted="false">"Proposed disable; recommendations and Sharp integrations may be affected"</string>
+    <string name="ui_4274bef065cf" formatted="false">"Android TV Core Services"</string>
+    <string name="ui_4d6f36f44760" formatted="false">"Optional trial; notifications, stock Home and other integrations may be affected"</string>
+    <string name="ui_e25142f82ab8" formatted="false">"Google Feedback"</string>
+    <string name="ui_7ba06d91b9ee" formatted="false">"Proposed disable; feedback functions may be affected"</string>
+    <string name="ui_124cc425ccd5" formatted="false">"TV Bug Report Sender"</string>
+    <string name="ui_ceba61654596" formatted="false">"Proposed disable; diagnostics reporting may be affected"</string>
+    <string name="ui_ca5d50695518" formatted="false">"Google Assistant"</string>
+    <string name="ui_61ac7dc2bb4b" formatted="false">"KEEP: voice button and Assistant"</string>
+    <string name="ui_38118735f18f" formatted="false">"Google Play Services"</string>
+    <string name="ui_125dac33bb87" formatted="false">"KEEP: app authentication and services"</string>
+    <string name="ui_50eee1301880" formatted="false">"Google Play Store"</string>
+    <string name="ui_7536eb04bd83" formatted="false">"KEEP: app installs and updates"</string>
+    <string name="ui_e38cffb01fa6" formatted="false">"Sharp Recording Core"</string>
+    <string name="ui_039d7044f59a" formatted="false">"KEEP: recordings and reservations"</string>
+    <string name="ui_468a284bdfff" formatted="false">"Sharp EPG Linker"</string>
+    <string name="ui_419eb86f5e14" formatted="false">"KEEP: program guide"</string>
+    <string name="ui_5b7a35b62ccc" formatted="false">"Sharp Hybridcast"</string>
+    <string name="ui_4e6a9487b2e3" formatted="false">"KEEP: Japanese broadcast functions"</string>
+    <string name="ui_877d9d2a86b4" formatted="false">"Sharp Monitor Maintainer"</string>
+    <string name="ui_911b6e9b3c15" formatted="false">"KEEP: TV system component"</string>
+    <string name="ui_ab341fbaf554" formatted="false">"Sharp TV Launcher"</string>
+    <string name="ui_ca7981b46ecf" formatted="false">"Off"</string>
+    <string name="ui_d7ee522b5607" formatted="false">"Needs Accessibility access"</string>
+    <string name="ui_50d91f00f978" formatted="false">"Ready · press Home to verify"</string>
+    <string name="ui_0146ce6f6296" formatted="false">"Waiting for Android"</string>
+    <string name="ui_089d7bd18a88" formatted="false">"No Home press received in this service session"</string>
+    <string name="ui_95a48f2c100f" formatted="false">"Service disconnected"</string>
+    <string name="ui_8c169effb2ba" formatted="false">"Home received and consumed; launch requested"</string>
+    <string name="ui_1d3299675857" formatted="false">"Home launch failed; interception paused"</string>
+    <string name="ui_6cf0a9dbe03c" formatted="false">"Home DOWN received and consumed; waiting for release"</string>
+    <string name="ui_b10f98627e41" formatted="false">"Android refused the Home launch. Interception is paused; the next Home press follows the original system path."</string>
+    <string name="ui_a3f855a0ffe3" formatted="false">"ENABLED (default)"</string>
+    <string name="ui_2ce7e223e1fe" formatted="false">"DISABLED (application default)"</string>
+    <string name="ui_4e90158ba181" formatted="false">"ENABLED (explicit)"</string>
+    <string name="ui_0c7ef33e451e" formatted="false">"DISABLED"</string>
+    <string name="ui_9d8f9968b641" formatted="false">"DISABLED BY USER"</string>
+    <string name="ui_4b04c38c27a0" formatted="false">"DISABLED UNTIL USED"</string>
+    <string name="ui_4c7f25572d15" formatted="false">"UNKNOWN — unrecognized Android state"</string>
+    <string name="ui_1dfe5a8105c6" formatted="false">"Quiet cove"</string>
+    <string name="ui_57a5e0087210" formatted="false">"Forest mist"</string>
+    <string name="ui_dfb68eeb38be" formatted="false">"Mountain valley"</string>
+    <string name="ui_e2f530f726fd" formatted="false">"Desert stars"</string>
+    <string name="ui_57a7abffe45a" formatted="false">"Blue peaks"</string>
+    <string name="ui_ca9b9ab5c922" formatted="false">"Bridge at dusk"</string>
+    <string name="ui_b27e0ee17403" formatted="false">"Sunlit ridges"</string>
+    <string name="ui_d826d27be54d" formatted="false">"Golden hour"</string>
+    <string name="ui_b140648fc54e" formatted="false">"Sunlit summits"</string>
+    <string name="ui_d47a42a5151a" formatted="false">"Gold Coast dusk"</string>
+    <string name="ui_bb03f5186fec" formatted="false">"Sydney Harbour"</string>
+    <string name="ui_00ef2d953309" formatted="false">"Amber hills"</string>
+    <string name="ui_188b10c23545" formatted="false">"Mint wave"</string>
+    <string name="ui_b3e01632add3" formatted="false">"Alpine glow"</string>
+    <string name="ui_326fa54aae51" formatted="false">"Direct Home-button handling.\n\nFirst enable CleanFrame Home button in TV Accessibility, then turn on Home interception here.\n\nHome opens CleanFrame once on release. Held Home uses the same action. Google stays enabled; Open Google launcher pauses interception."</string>
+    <string name="ui_717af1205610" formatted="false">"Read-only package status.\n\nNo commands run from this app. Refresh reads Android again.\n\nKEEP packages must remain unchanged."</string>
+    <string name="ui_37e5df95d51f" formatted="false">"Your apps, your order.\n\nChoose an app to open it or add it to Home. Editing this menu does not install or remove an app."</string>
+    <string name="ui_f40fc6a77c53" formatted="false">"A photograph. Your apps. Room to breathe.\n\nAll preferences stay on this TV. No advertising, analytics or network access."</string>
+    <string name="ui_9d31b32cf353" formatted="false">"On Sharp AQUOS, open the TV menu:\n\nSettings (設定) → Other settings (その他の設定) → Accessibility (ユーザー補助).\n\nAt the bottom, under Services (サービス), turn CleanFrame Home button On.\n\nThen return to CleanFrame → Settings → Home button → Turn on Home interception.\n\nMenu names may differ on other TVs."</string>
+    <string name="ui_21e9df992513" formatted="false">"You will be taken to the original Google launcher and Home interception will be turned off. Home will then open Google Home.\n\nTo make Home open CleanFrame Sharp again, open CleanFrame → Settings → Home button and turn on Home interception again."</string>
+    <string name="ui_8c04b97198e4" formatted="false">"Consumes Home press and release before normal Android Home handling, then opens CleanFrame once. No window watching, delayed retry or Google-launcher disable is used. Compatibility depends on TV firmware; verify on your device."</string>
+    <string name="ui_dd17eb9d706e" formatted="false">"Android delivers global key events to the service. Only Home (3) is handled. All other keys pass through immediately without being stored. No screen contents, text, window events, gestures or touch exploration are requested."</string>
+    <string name="ui_5736e7b7dbda" formatted="false">"First enable CleanFrame Home button in TV Accessibility, then turn on Home interception here. After an update, check the service is still enabled."</string>
+    <string name="ui_907d447171f9" formatted="false">"Short and held Home presses both open CleanFrame once. The original long-press Home action is replaced while enabled. Voice, Back, volume, tuner and other keys are passed through. Screen-off and locked-device Home events follow the system path."</string>
+    <string name="ui_4493721b67f9" formatted="false">"This Settings button pauses interception before opening Google Home. It stays paused until you turn it on again here."</string>
+    <string name="ui_509146c051ee" formatted="false">"Pause Home interception here, or disable CleanFrame Home button in TV Accessibility. The original launcher remains enabled. Other Accessibility services are never changed by this app."</string>
+    <string name="ui_61fa848397a2" formatted="false">"No network permission, screen retrieval or key history. Only the enable choice and a failure message are saved locally. The current service session shows whether a Home launch was requested; this does not prove the TV kept CleanFrame in front."</string>
+    <string name="ui_bff680be0199" formatted="false">"Enable debugging using your TV manufacturer’s instructions. PC and TV must share the LAN. Open PowerShell in the folder containing adb.exe. Replace the example address and port below with your TV’s own values."</string>
+    <string name="ui_9e1c8a552ab0" formatted="false">".\\adb.exe devices\nContinue only if it says device, not offline or unauthorized."</string>
+    <string name="ui_d0003010be4c" formatted="false">".\\adb.exe shell pm list packages -d\nTest tuner, EPG, recording, HDMI, remote keys and streaming. If needed, restore the candidate and restart the TV. Never uninstall system packages or clear their data as recovery."</string>
+    <string name="ui_b37b8c49de98" formatted="false">"Unofficial native Android adaptation · MIT license. Project code and original CleanFrame retain separate copyright notices bundled in assets/licenses."</string>
+    <string name="ui_86084a6de45a" formatted="false">"Nathan Clark · MIT license\nhttps://github.com/nthnclrk/CleanFrame"</string>
+    <string name="ui_854d2e5d8994" formatted="false">"Unsplash License · https://unsplash.com/license\nBundled for launcher backgrounds. Photographers retain their rights. No affiliation or endorsement is implied."</string>
+    <string name="ui_5e786c523a55" formatted="false">"Manrope, Geist and Newsreader · SIL Open Font License 1.1. Full license texts and source credits are bundled with this app and source."</string>
+</resources>

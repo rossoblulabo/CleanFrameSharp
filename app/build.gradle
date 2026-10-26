@@ -1,0 +1,48 @@
+plugins { id 'com.android.application' }
+android {
+    // Sideload-only API 29 TV build; Play publishing is outside this project.
+    lint { disable 'ExpiredTargetSdkVersion' }
+
+    testOptions {
+        unitTests.includeAndroidResources = true
+        unitTests.all {
+            maxHeapSize = '2g'
+            def cacheRoot = System.getenv('CLEANFRAME_TEST_CACHE') ?: file("$buildDir/test-cache").absolutePath
+            systemProperty 'user.home', cacheRoot + '/home'
+            systemProperty 'java.io.tmpdir', cacheRoot + '/tmp'
+            doFirst { file(cacheRoot + '/home').mkdirs(); file(cacheRoot + '/tmp').mkdirs() }
+            systemProperty 'robolectric.dependency.repo.url', 'https://repo.maven.apache.org/maven2'
+            systemProperty 'cleanframe.screenshots', file("$buildDir/screenshots").absolutePath
+        }
+    }
+    signingConfigs {
+        if (System.getenv('CLEANFRAME_SIGNING_KEYSTORE')) {
+            release {
+                storeFile file(System.getenv('CLEANFRAME_SIGNING_KEYSTORE'))
+                storePassword System.getenv('CLEANFRAME_SIGNING_STORE_PASSWORD')
+                keyAlias System.getenv('CLEANFRAME_SIGNING_KEY_ALIAS')
+                keyPassword System.getenv('CLEANFRAME_SIGNING_KEY_PASSWORD')
+            }
+        }
+    }
+    buildTypes {
+        release {
+            debuggable false
+            jniDebuggable false
+            minifyEnabled false
+            shrinkResources false
+            if (signingConfigs.findByName('release') != null) signingConfig signingConfigs.release
+        }
+    }
+    // Keep both bundled languages available when switching the app language offline.
+    bundle { language { enableSplit = false } }
+    namespace 'org.cleanframe.sharp'
+    compileSdk 35
+    buildToolsVersion "35.0.0"
+    defaultConfig { applicationId 'org.cleanframe.sharp'; minSdk 29; targetSdk 29; versionCode 11; versionName '1.1.0' }
+}
+
+
+
+dependencies { testImplementation 'junit:junit:4.13.2'; testImplementation 'org.robolectric:robolectric:4.14.1' }
+

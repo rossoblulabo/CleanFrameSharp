@@ -1,0 +1,36 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-feature android:name="android.software.leanback" android:required="false" />
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+    <queries><package android:name="com.google.android.tvlauncher"/><package android:name="jp.co.sharp.av.android.monitormaintainer"/><package android:name="jp.co.sharp.av.android.tvlauncher"/>
+        <intent><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LEANBACK_LAUNCHER"/></intent>
+        <intent><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent>
+        <package android:name="jp.co.sharp.av.android.analyticsservice"/>
+        <package android:name="jp.co.sharp.av.android.cocorovision"/>
+        <package android:name="com.google.android.tvrecommendations"/>
+        <package android:name="com.google.android.feedback"/>
+        <package android:name="com.google.android.tv.bugreportsender"/>
+        <package android:name="com.google.android.katniss"/>
+        <package android:name="com.google.android.gms"/>
+        <package android:name="com.android.vending"/>
+        <package android:name="jp.co.sharp.av.android.rsvcore"/>
+        <package android:name="jp.co.sharp.av.android.epglinker"/>
+        <package android:name="jp.co.sharp.av.android.hybridcastcpdm"/>
+    </queries>
+    <application android:icon="@drawable/app_icon" android:banner="@drawable/banner" android:allowBackup="false" android:label="@string/app_name" android:theme="@android:style/Theme.Material.NoActionBar" android:usesCleartextTraffic="false">
+        <activity android:name=".MainActivity" android:exported="true" android:launchMode="singleTask" android:screenOrientation="landscape">
+            <intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.HOME"/><category android:name="android.intent.category.DEFAULT"/></intent-filter>
+            <intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LEANBACK_LAUNCHER"/></intent-filter>
+            <intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter>
+        </activity>
+
+        <service android:name=".HomeRedirectService"
+            android:label="@string/home_redirect_label"
+            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE"
+            android:exported="true">
+            <intent-filter><action android:name="android.accessibilityservice.AccessibilityService"/></intent-filter>
+            <meta-data android:name="android.accessibilityservice" android:resource="@xml/home_redirect_service"/>
+        </service>
+    </application>
+</manifest>
+
+
