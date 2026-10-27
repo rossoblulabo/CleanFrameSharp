@@ -2,7 +2,9 @@
 
 [English](README.md) · 日本語
 
-お気に入りのアプリ、写真、時刻だけをすっきりと表示するAndroid TVランチャーです。[Nathan Clark氏のCleanFrame](https://github.com/nthnclrk/CleanFrame)を参考に制作した、Android向けの非公式アプリです。
+**Android TV搭載のシャープ製AQUOS向けに開発したランチャー**です。お気に入りのアプリ、写真、時刻だけをすっきりと表示します。[Nathan Clark氏のCleanFrame](https://github.com/nthnclrk/CleanFrame)を参考に制作した、Android向けの非公式アプリです。
+
+**開発の対象機種はSharp AQUOS 4T-C45BL1（AQUOS-TVJ19）、Android TV 10／API 29です。他機種や別のファームウェアでの動作は未確認です。**
 
 **このAndroid実装のコードは、元のCleanFrameのGitHubリポジトリを参考に、ChatGPT Codexを使って100% AIで作成しました。** 要件の指定、判断、テレビ実機での確認は人が行っています。元のデザイン、写真、フォントの制作者には、それぞれクレジットを記載しています。
 

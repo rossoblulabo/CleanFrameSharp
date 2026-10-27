@@ -2,7 +2,9 @@
 
 English · [日本語](README.ja.md)
 
-A quiet native Android TV launcher: your apps, a photograph and the time. An unofficial Android adaptation inspired by [Nathan Clark’s CleanFrame](https://github.com/nthnclrk/CleanFrame).
+A minimalist launcher developed for **Sharp AQUOS TVs running Android TV**: your apps, a photograph and the time. An unofficial Android adaptation inspired by [Nathan Clark’s CleanFrame](https://github.com/nthnclrk/CleanFrame).
+
+**Developed for the Sharp AQUOS 4T-C45BL1 (AQUOS-TVJ19), running Android TV 10 / API 29. Other TV models and firmware are unverified.**
 
 **This Android implementation was 100% AI-coded using ChatGPT Codex**, with the original CleanFrame GitHub project as its design/reference. Requirements, decisions and physical-TV testing were human directed. Original photographs, fonts and upstream design remain credited to their creators.
 
